@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jborges82@gmail.com",
+    "longName": "Github Integration",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Github Integration",
+    "uuid": "17671079-1950-47bd-818f-1ea240d32d7b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
